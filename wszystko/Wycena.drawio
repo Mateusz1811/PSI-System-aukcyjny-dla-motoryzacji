@@ -1,0 +1,164 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.1">
+  <diagram name="Strona-1" id="iIr6qoP63SePChbQIaSl">
+    <mxGraphModel dx="2316" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;WYCENA KOSZULKOWA&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="237" width="590" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-4" value="CZAS NA BAZE DANYCH:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="75" y="58" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-5" value="CZAS NA SYSTEM KOMUNIKACJI:" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="120" y="130" as="sourcePoint" />
+            <mxPoint x="200" y="130" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-7" value="system aukcyjny" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-8" value="system płatności&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="540" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-11" value="system email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="569" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-12" value="system zarządzania ogłoszeniami" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="770" y="722" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-13" value="komponent zarządzania użytkownikiem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="165" y="782" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-14" value="system komunikacji" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-15" value="kontroler płatności" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="215" y="560" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-16" value="baza danych" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="545" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-23" value="APLIKACJA INTERNETOWA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="210" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-24" value="APLIKACJA MOBILNA&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="197" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-25" value="Stworzenie logiki aplikacji" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-26" value="Wizualna strona aplikacji" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="342" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-27" value="Implementacja bazy danych w aplikacji" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="65" y="362" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-28" value="Podłączenie zewnętrznego systemu płatności" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="55" y="382" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-29" value="Stworzenie systemu zarządzania ogłoszeniami" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="35" y="282" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-30" value="Stworzenie systemu komunikacji" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="65" y="302" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-31" value="Stworzenie systemu email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="322" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-32" value="Stworzenie strony rejestracji, logowania oraz zarządzania użytkownikiem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="260" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-33" value="przygotowanie bazy pod informacje o uzytkowniku" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="500" y="570" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-34" value="postawienie serwera" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="555" y="599" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-35" value="utworzenie kompatybilności ze stroną" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="510" y="628" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-36" value="stworzenie stron do rejestracji i logowania oraz zarządzania profilem użytkowniak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="812" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-37" value="dodawanie, usuwanie, edytowanie ogłoszeń" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="730" y="752" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-38" value="system wyszukiwania" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="780" y="782" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-39" value="integracja płatności przez zewnętrzny system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="608" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-40" value="wysyłanie faktur i paragonów" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="648" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-41" value="wysyłanie, usuwanie, edytowanie wiadomości" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="760" y="198" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-42" value="możliwośc wysyłania zdjęć, filmów, gifów" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="775" y="220" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-43" value="filtrowanie zakaznych słów" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="815" y="248" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-44" value="możliwość blokowania użytkowników" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="785" y="270" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-46" value="Wizualna strona aplikacji" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="960" y="498" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-47" value="Logo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1025" y="528" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-48" value="Design strony i aplikacji mobilnej" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="950" y="550" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-49" value="Ikony nawigacji aplikacji" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="975" y="575" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-50" value="Implementacja designu strony jako frontend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="910" y="600" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-51" value="XL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="468" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-52" value="L" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="585" y="508" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-53" value="L" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="215" y="508" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-54" value="L" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="845" y="700" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-55" value="L" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1025" y="198" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-56" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-57" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1005" y="218" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-58" value="XS -1 Dzień" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="875" y="98" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-59" value="S - 4 Dni" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="880" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-60" value="M - Tydzien" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="955" y="108" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZ_2ArvuxEDRHgUU6br4-61" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="945" y="138" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kbtYeAY7My_WKdB1LHJE-1" value="XL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="178" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
